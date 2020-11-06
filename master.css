@@ -1,0 +1,21 @@
+.body-check{
+  background-color: yellow;
+}
+
+.red-box{
+  background-color:red;
+  height: 400px;
+  width: 400px;
+}
+
+.blue-box{
+  background-color:blue;
+  height: 400px;
+  width: 400px;
+}
+
+.green-box{
+  background-color:green;
+  height: 400px;
+  width: 400px;
+}
